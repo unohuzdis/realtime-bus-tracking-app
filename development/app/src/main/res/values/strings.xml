@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bus Advisory</string>
+    <string name="ubco_exchange_bay_b">UBCO Exchange Bay B</string>
+    <string name="_97">97</string>
+    <string name="_10">1</string>
+    <string name="minutes">minutes</string>
+    <string name="go">GO</string>
+    <string name="tracking">TRACKING</string>
+</resources>
