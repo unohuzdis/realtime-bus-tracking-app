@@ -19,7 +19,7 @@
     "mongoose": "5.4.2",
     "request": "2.88.0",
     "serverless-http": "1.8.0",
-    "underscore": "1.9.1"
+    "underscore": "1.12.1"
   },
   "devDependencies": {
     "expect": "24.1.0",
