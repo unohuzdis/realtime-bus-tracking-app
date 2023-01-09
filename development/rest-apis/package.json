@@ -14,7 +14,7 @@
     "body-parser": "1.18.3",
     "cors": "2.8.5",
     "express": "4.16.4",
-    "firebase-admin": "7.0.0",
+    "firebase-admin": "11.4.1",
     "mongodb": "3.1.13",
     "mongoose": "5.4.2",
     "request": "2.88.0",
@@ -25,7 +25,7 @@
     "expect": "24.1.0",
     "mocha": "5.2.0",
     "nodemon": "1.18.9",
-    "serverless-offline": "3.31.3",
+    "serverless-offline": "12.0.4",
     "supertest": "3.3.0"
   }
 }
